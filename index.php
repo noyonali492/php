@@ -1,5 +1,8 @@
 <!doctype html>
 <html>
+    <?php
+        $noyon="Result";
+    ?>
 <head>
     <title>PHP Syntax</title>
     <style>
@@ -19,7 +22,11 @@
             <h2>Php Fundamental Trining</h2>
         </div>
             <?php
-                echo"i love php";
+                $a=5;
+                $b=10;
+                $c=$a+$b;
+
+                echo $noyon." = ".$c;
 
             ?>
 
