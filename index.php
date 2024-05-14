@@ -27,6 +27,9 @@
                 $c=$a+$b;
 
                 echo $noyon." = ".$c;
+                echo "<br/>";
+
+                print "php is nice";
 
             ?>
 
