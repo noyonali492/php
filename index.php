@@ -26,8 +26,8 @@
                 // $b=10;
                 // $c=$a+$b;
 
-                // echo $noyon." = ".$c;
-                // echo "<br/>";
+                 echo $noyon." = ".$c;
+                 echo "<br/>";
 
                 // print "php is nice";
 
