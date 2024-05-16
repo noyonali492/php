@@ -22,14 +22,7 @@
             <h2>Php Fundamental Trining</h2>
         </div>
             <?php
-                // $a=5;
-                // $b=10;
-                // $c=$a+$b;
-
-                 echo $noyon." = ".$c;
-                 echo "<br/>";
-
-                // print "php is nice";
+              
 
             ?>
 
