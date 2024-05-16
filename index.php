@@ -23,14 +23,14 @@
         </div>
             <?php
               
-                $a=100;
-                $b=25;
-                if($a>$b){
-                    echo "A Largest";
-                }else{
+                // $a=100;
+                // $b=25;
+                // if($a>$b){
+                //     echo "A Largest";
+                // }else{
 
-                    echo "B Largest";
-                }
+                //     echo "B Largest";
+                // }
             ?>
 
         <div class="foteroption">
